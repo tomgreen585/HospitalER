@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Department
+comment0.text=\n\ A\ treatment\ Department\ (Surgery,\ X-ray\ room,\ \ ER,\ Ultrasound,\ etc)\n\ Each\ department\ will\ need\n\ -\ A\ name,\n\ -\ A\ maximum\ number\ of\ patients\ that\ can\ be\ treated\ at\ the\ same\ time\n\ -\ A\ Set\ of\ Patients\ that\ are\ currently\ being\ treated\n\ -\ A\ Queue\ of\ Patients\ waiting\ to\ be\ treated.\n\ \ \ \ (ordinary\ queue,\ or\ priority\ queue,\ depending\ on\ argument\ to\ constructor)\n
+comment1.params=departmentName\ maxPat\ usePriQueue
+comment1.target=Department(java.lang.String,\ int,\ boolean)
+comment2.params=y
+comment2.target=void\ redraw(double)
+comment2.text=\n\ Draw\ the\ department\:\ the\ patients\ being\ treated\ and\ the\ patients\ waiting\n\ You\ may\ need\ to\ change\ the\ names\ if\ your\ fields\ had\ different\ names\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.util.Set\ getTreatmentRoom()
+comment5.params=
+comment5.target=int\ getMaxPatients()
+comment6.params=
+comment6.target=java.util.Queue\ getWaitingRoom()
+numComments=7

@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/tomgreen/Desktop/COMP102/BlueJ and ECS100 Files/ecs100/**/*.jar"
+    ]
+}
